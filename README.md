@@ -16,7 +16,7 @@ Main features:
 ## Install
 
  ```bash
- npm install @unicef/material-ui-currency-textfield --save
+ npm install @gggaboaniquilador/material-ui-currency-textfield --save
 ```
 
 ## Usage
